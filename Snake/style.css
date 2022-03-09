@@ -4,6 +4,7 @@
   display: flex;
   flex-wrap: wrap;
   border-style: solid;
+  background-color: lightgray;
 }
 
 .grid div {
@@ -12,9 +13,9 @@
 }
 
 .snake {
-  background-color: blue;
+  background-color: green;
 }
 
 .apple {
-  background-color: purple;
+  background-color: darkred;
 }
